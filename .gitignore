@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Cobertura de código
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
