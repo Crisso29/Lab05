@@ -1,9 +1,6 @@
-﻿// BusquedaFiltrado.cs
-// Módulo: Búsqueda y Filtrado — Spotify
-// Autor: Crisologo Aguilar Flores
-// Curso: IS-489 Pruebas y Aseguramiento de Calidad de Software
-// Docente: Ing. Lizbeth Jaico Quispe — Semestre 2026-I
-// Fase GREEN: código mínimo para pasar los 6 tests
+﻿//* BusquedaFiltrado.cs
+//* Módulo: Búsqueda y Filtrado — Spotify
+//* Fase GREEN: código mínimo para pasar los 6 tests
 
 namespace Spotify.Core.Busqueda;
 

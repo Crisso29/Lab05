@@ -1,8 +1,5 @@
-﻿// GestionPlaylistTests.cs
-// TC-001 al TC-006 — Módulo Gestión de Playlist (Spotify)
-// Autor: Crisologo Aguilar Flores
-// Curso: IS-489 Pruebas y Aseguramiento de Calidad de Software
-// Docente: Ing. Lizbeth Jaico Quispe — Semestre 2026-I
+﻿//! GestionPlaylistTests.cs
+//! TC-001 al TC-006 — Módulo Gestión de Playlist (Spotify)
 
 using Spotify.Core.Playlist;
 
@@ -20,7 +17,7 @@ public class GestionPlaylistTests
         var gestor = new GestionPlaylist();
         string nombre = "Para Llullu Sara";
         string descripcion = "Huaynos y música andina tradicional para los momentos en el campo. " +
-                             "Dedicado a la comunidad de Vinchos, Ayacucho.";
+                            "Dedicado a la comunidad de Vinchos, Ayacucho.";
         // Act
         var resultado = gestor.CrearPlaylist(nombre, descripcion);
 
@@ -42,7 +39,7 @@ public class GestionPlaylistTests
         gestor.CrearPlaylist("Para Llullu Sara", "Descripción inicial");
         string nuevoNombre = "Mejores Huaynos Ayacuchanos 2026";
         string nuevaDescripcion = "Selección especial de huaynos y música andina del departamento " +
-                                  "de Ayacucho. Incluye artistas de Vinchos, Huamanga y Cangallo.";
+                                "de Ayacucho. Incluye artistas de Vinchos, Huamanga y Cangallo.";
         // Act
         var resultado = gestor.EditarPlaylist("Para Llullu Sara", nuevoNombre, nuevaDescripcion);
 

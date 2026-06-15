@@ -1,8 +1,5 @@
-// BusquedaFiltradoTests.cs
-// TC-007 al TC-012 — Módulo Búsqueda y Filtrado (Spotify)
-// Autor: Crisologo Aguilar Flores
-// Curso: IS-489 Pruebas y Aseguramiento de Calidad de Software
-// Docente: Ing. Lizbeth Jaico Quispe — Semestre 2026-I
+//! BusquedaFiltradoTests.cs
+//! TC-007 al TC-012 — Módulo Búsqueda y Filtrado (Spotify)
 
 using Spotify.Core.Busqueda;
 
