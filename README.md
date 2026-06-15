@@ -303,6 +303,6 @@ Suite de 6 tests (TC-007 al TC-012) incluyendo pruebas de seguridad (XSS, SQL In
 ## 👨‍💻 Autor
 
 **Crisologo Aguilar Flores**
-Estudiante de Ingeniería de Sistemas — 6to Semestre
+Estudiante de Ingeniería de Sistemas — 6 mo Semestre
 Universidad Nacional de San Cristóbal de Huamanga (UNSCH)
 Ayacucho, Perú 🇵🇪
